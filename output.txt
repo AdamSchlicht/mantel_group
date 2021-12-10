@@ -1,0 +1,11 @@
+10/12/2021 13:41:25
+Input file: programming-task-example-data.log
+The number of unique IP Addresses is 11
+The top three active IP addresses are:
+    - 168.41.191.40 (4 times)
+    - 72.44.32.10 (3 times)
+    - 50.112.00.11 (3 times)
+The top three visited urls are:
+    - /docs/manage-websites/ (2 times)
+    - /intranet-analytics/ (1 times)
+    - http://example.net/blog/category/meta/ (1 times)
